@@ -5,7 +5,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ## Problems
 
-### **1. Time Addition **
+## 1. Time Addition
 - **Task:** Write an x86 assembly program that adds two given timestamps.  
 - **Input:** Two consecutive lines, each with:  
   ```
@@ -31,7 +31,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **2. Base Conversion **
+## 2. Base Conversion
 - **Task:** Convert numbers from base **p** to base **q**.  
 - **Input:**  
   - First line: number of inputs `n`.  
@@ -51,7 +51,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **3. Palindromes in Decimal and Binary **
+## 3. Palindromes in Decimal and Binary
 - **Task:** Find numbers less than `n` that are palindromes in **both decimal and binary** representations.  
 - **Input:** One integer `n (n ≤ 2 × 10^9)`.  
 - **Output:** Print each qualifying number in a new line.  
@@ -75,7 +75,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **4. Conjugate of Complex Numbers in Polar Form **
+## 4. Conjugate of Complex Numbers in Polar Form
 - **Task:** Write an assembly program that:  
   - Takes two complex numbers in **rectangular form** (`α + βi`).  
   - Computes the division of a number by its conjugate.  
@@ -92,8 +92,3 @@ This repository contains the source codes and materials for the Computer Archite
 ```
 0.800 × e^(-0.262i)
 ```
-
----
-
-## ✅ Summary
-This project consists of **4 assembly programming problems** ranging from **easy time manipulation** to **very advanced complex number transformations using polar coordinates**.
