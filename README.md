@@ -1,10 +1,11 @@
 ## X86 Assembly Project – Computer Architecture & Languages Course
+
 This repository contains the source codes and materials for the Computer Architecture and Languages course project, implemented in X86 Assembly Language.
 ---
 
 ## Problems
 
-### **1. Time Addition (Easy)**
+### **1. Time Addition **
 - **Task:** Write an x86 assembly program that adds two given timestamps.  
 - **Input:** Two consecutive lines, each with:  
   ```
@@ -30,7 +31,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **2. Base Conversion (Medium)**
+### **2. Base Conversion **
 - **Task:** Convert numbers from base **p** to base **q**.  
 - **Input:**  
   - First line: number of inputs `n`.  
@@ -50,7 +51,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **3. Palindromes in Decimal and Binary (Medium)**
+### **3. Palindromes in Decimal and Binary **
 - **Task:** Find numbers less than `n` that are palindromes in **both decimal and binary** representations.  
 - **Input:** One integer `n (n ≤ 2 × 10^9)`.  
 - **Output:** Print each qualifying number in a new line.  
@@ -74,7 +75,7 @@ This repository contains the source codes and materials for the Computer Archite
 
 ---
 
-### **4. Conjugate of Complex Numbers in Polar Form (Very Hard – Bonus)**
+### **4. Conjugate of Complex Numbers in Polar Form **
 - **Task:** Write an assembly program that:  
   - Takes two complex numbers in **rectangular form** (`α + βi`).  
   - Computes the division of a number by its conjugate.  
